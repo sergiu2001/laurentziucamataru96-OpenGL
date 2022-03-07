@@ -1,0 +1,15 @@
+﻿  Patrat.c
+C:\Users\sergi\OneDrive\Documents\Visual Studio 2019\Programe\Grafica\grafica\grafica\Patrat.c(103,27): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\sergi\OneDrive\Documents\Visual Studio 2019\Programe\Grafica\grafica\grafica\Patrat.c(103,32): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\sergi\OneDrive\Documents\Visual Studio 2019\Programe\Grafica\grafica\grafica\Patrat.c(105,27): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\sergi\OneDrive\Documents\Visual Studio 2019\Programe\Grafica\grafica\grafica\Patrat.c(105,32): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\sergi\OneDrive\Documents\Visual Studio 2019\Programe\Grafica\grafica\grafica\Patrat.c(107,27): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\sergi\OneDrive\Documents\Visual Studio 2019\Programe\Grafica\grafica\grafica\Patrat.c(107,32): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\sergi\OneDrive\Documents\Visual Studio 2019\Programe\Grafica\grafica\grafica\Patrat.c(109,27): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\sergi\OneDrive\Documents\Visual Studio 2019\Programe\Grafica\grafica\grafica\Patrat.c(109,32): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\sergi\OneDrive\Documents\Visual Studio 2019\Programe\Grafica\grafica\grafica\Patrat.c(111,28): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\sergi\OneDrive\Documents\Visual Studio 2019\Programe\Grafica\grafica\grafica\Patrat.c(111,33): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\sergi\OneDrive\Documents\Visual Studio 2019\Programe\Grafica\grafica\grafica\Patrat.c(150,61): warning C4133: 'function': incompatible types - from 'char [40]' to 'LPCWSTR'
+C:\Users\sergi\OneDrive\Documents\Visual Studio 2019\Programe\Grafica\grafica\grafica\Patrat.c(158,56): warning C4028: formal parameter 1 different from declaration
+C:\Users\sergi\OneDrive\Documents\Visual Studio 2019\Programe\Grafica\grafica\grafica\Patrat.c(159,59): warning C4028: formal parameter 1 different from declaration
+  grafica.vcxproj -> C:\Users\sergi\OneDrive\Documents\Visual Studio 2019\Programe\Grafica\grafica\Debug\grafica.exe
